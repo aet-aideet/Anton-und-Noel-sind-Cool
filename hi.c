@@ -10,12 +10,14 @@
 int A;
 int main() {
 	_getch;
+
 printf (" Hi");
 	_getch;
-	scanf("
+	scanf("")
 return 0;
 }
 // hallo
 
 printf("warum in C?")
 printf("mach doch in rust")
+// balabla
