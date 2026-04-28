@@ -10,9 +10,10 @@
 int A;
 int main() {
 	_getch;
+
 printf (" Hi");
 	_getch;
-	scanf("
+	scanf("")
 return 0;
 }
 // hallo
@@ -20,4 +21,5 @@ return 0;
 printf("warum in C?")
 printf("mach doch in rust")
 
-// ich weiß nix
+
+
