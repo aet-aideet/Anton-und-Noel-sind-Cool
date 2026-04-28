@@ -16,3 +16,6 @@ printf (" Hi");
 return 0;
 }
 // hallo
+
+printf("warum in C?")
+printf("mach doch in rust")
